@@ -1,4 +1,4 @@
-(_Fernanda Linhares Dev FullStack Júnior_)
+__Fernanda Linhares Dev FullStack Júnior__
 
 - 👋 Hi, I’m @FernandaBarrosLinhares
 - 👀 I’m interested in technology, art and nature!
@@ -7,9 +7,9 @@
 - 📫 How to reach me devfernandalinhares@gmail.com
 - (https://www.linkedin.com/in/fernanda-linhares-b10ba32b/)
 
-  Languages
+  __Languages__
 
-Front-End
+__Front-End__
 
 |[TypeScript](https://www.typescriptlang.org/)|
 |[Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)|
@@ -19,7 +19,7 @@ Front-End
 |[NPM](https://www.npmjs.com/package/ngx-toastr)|
 
 
-Back-End
+__Back-End__
   
 |[Spring Boot](https://spring.io/projects/spring-boot)| 
 |[Java](https://www.java.com/pt-BR/)| 
@@ -27,7 +27,7 @@ Back-End
 |[Postman](https://www.postman.com/)| 
   
 
-Design
+__Design__
 
 |[Figma](https://www.figma.com/)|
 
