@@ -1,4 +1,4 @@
-Fernanda Linhares Dev FullStack Júnior
+(_Fernanda Linhares Dev FullStack Júnior_)
 
 - 👋 Hi, I’m @FernandaBarrosLinhares
 - 👀 I’m interested in technology, art and nature!
