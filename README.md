@@ -1,13 +1,14 @@
 __Fernanda Linhares Dev FullStack Júnior__
 
-- 👋 Hi, I’m @FernandaBarrosLinhares
-- 👀 I’m interested in technology, art and nature!
-- 🌱 I’m currently learning Dev Full Satck with a focus on HTML, CSS, Dom. Json, Spring, Sql, Java, Angular, FullCycle, DevOps, Docker, Virtualization.
-- 💞️ I’m looking to collaborate on proactivity, determination, communication and development of group goals.
-- 📫 How to reach me devfernandalinhares@gmail.com
-- (https://www.linkedin.com/in/fernanda-linhares-b10ba32b/)
+- 👋 Olá eu sou @Fernanda Linhares
+- 👀Me interesso artes, viagens, ecologia e tecnologia.
+- 🌱 No momento cursando Analisat de Desemvolvimento com foco em React e Node Express.
+- 🌱 Finalizei o ci=urso  Full Stack com foco em  HTML, CSS, Dom. Json, Spring, Sql, Java, Angular, FullCycle, DevOps, Docker, Virtualization.
+- 💞️ Sou pró-ativa, comunicativa e determinada.
+- 📫 HMeu e-mail profissional é devfernandalinhares@gmail.com
+-  E meu Linkedin (https://www.linkedin.com/in/fernanda-linhares-b10ba32b/)
 
-  __Languages__
+  __Linguagens__
 
 __Front-End__
 
