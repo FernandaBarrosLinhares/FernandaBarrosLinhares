@@ -28,7 +28,7 @@ __Back-End__
 |[Spring Boot](https://spring.io/projects/spring-boot)| 
 |[Java](https://www.java.com/pt-BR/)| 
 |[PgAdmin](https://www.pgadmin.org/)|
-|[Postman](https://www.postman.com/)| 
+
   
 
 __Design__
