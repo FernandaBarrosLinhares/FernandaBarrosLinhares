@@ -2,7 +2,7 @@ __Fernanda Linhares Dev FullStack Júnior__
 
 - 👋 Olá eu sou @Fernanda Linhares
 - 👀Me interesso artes, viagens, ecologia e tecnologia.
-- 🌱 Analista de Desemvolvimento com foco em React e Node Express, Devops, Docker e Virtualização.
+- 🌱 Analista de Desenvolvimento com foco em React e Node Express, Devops, Docker e Virtualização.
 - 🌱 Full Stack com foco em  HTML, CSS, Dom, Json, Spring, Sql, Java, Angular, FullCycle, DevOps, Docker, Virtualization.
 - 💞️ Sou pró-ativa, comunicativa e determinada.
 - 📫 Meu e-mail profissional é devfernandalinhares@gmail.com
